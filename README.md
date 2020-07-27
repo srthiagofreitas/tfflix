@@ -1,7 +1,7 @@
 <h1>TFFlix</h1>
 
 <p align="center">
-<image src=".github/logo.png" height="250" width="250"/></br>
+<img src=".github/logo.png" height="250" width="250"/></br>
 
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<image src="https://img.shields.io/github/repo-size/srthiagofreitas/tfflix" />
+<img src="https://img.shields.io/github/repo-size/srthiagofreitas/tfflix" />
 <img src="https://img.shields.io/github/languages/count/srthiagofreitas/tfflix" />
 <img src="https://img.shields.io/github/languages/top/srthiagofreitas/tfflix" />
 <img src="https://img.shields.io/github/license/srthiagofreitas/tfflix" />
@@ -23,7 +23,7 @@
 ## Apresentação do Projeto :sparkles:
 
 <p align="center">
-<image src=".github/React App.gif" />
+<img src=".github/React App.gif" />
 </p>
 
 ---
