@@ -1,6 +1,5 @@
 {
-  "categorias": [
-    {
+  "categorias": [{
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -8,8 +7,7 @@
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
-      "videos": [
-        {
+      "videos": [{
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
@@ -40,7 +38,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -50,8 +48,7 @@
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
-      "videos": [
-        {
+      "videos": [{
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
@@ -66,7 +63,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -80,8 +77,7 @@
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
-      "videos": [
-        {
+      "videos": [{
           "titulo": "Teste de Turing",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
@@ -102,8 +98,7 @@
     {
       "titulo": "Filmes",
       "cor": "orange",
-      "videos": [
-        {
+      "videos": [{
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
@@ -128,8 +123,7 @@
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
-      "videos": [
-        {
+      "videos": [{
           "titulo": "Final Fantasy 7",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         },
@@ -148,6 +142,10 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        },
+        {
+          "titulo": "Playerunknown's Battlegrounds",
+          "url": "https://youtu.be/ei24TLZ9zw8"
         }
       ]
     },
@@ -158,8 +156,7 @@
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
-      "videos": [
-        {
+      "videos": [{
           "titulo": "Como estudar melhor?",
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
